@@ -17,7 +17,7 @@ Le site propose des fonctionnalités telles que des listes de cadeaux personnali
 ### Organisation des commits
 Les commits ont été réalisés de manière progressive afin de suivre l’évolution du projet.
 Chaque modification importante a été enregistrée avec un message clair et descriptif.
-### Exemples de commits effectués :
+#### Exemples de commits effectués :
 * Initialisation du dépôt et ajout du README
 * Ajout du diagramme de cas d’utilisation
 * Ajout du diagramme de classes
